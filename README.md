@@ -44,7 +44,8 @@ with any additional questions or comments.
 *  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 *  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 *  [Homepage](https://www.typescriptlang.org/)
-
-## Roadmap
+   ## Roadmap
 
 For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
+
+Created by Jason Scott Heise
