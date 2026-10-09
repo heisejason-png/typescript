@@ -48,5 +48,4 @@ with any additional questions or comments.
 
 For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
